@@ -14,6 +14,7 @@ print("Enter elements of list: ")
 for i in range(n1):
     c = int(input())
     arr1.append(c)
+arr1.sort()
 print("Smallest non-representable number: ", findSmallest(arr1, n1))
 
 # Code by Tanmay Goel
