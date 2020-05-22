@@ -1,0 +1,24 @@
+I've created a Python based Voice assistant, which uses Google Speech-Recognition to do tasks programmed.
+
+It is a console based application and reqires some modules to run.
+
+Libraries used :-
+1. pyttsx3
+2. SpeechRecognition
+3. Wikipedia
+
+It can do tasks such as :-
+1. Searching on Wikipedia
+2. Open Google
+3. Open Youtube
+4. Open Stackoverflow
+5. Open your IDE installed on your desktop
+6. Play random song from your device's playlist
+7. Tell time
+8. Send email
+
+
+
+
+This project is created by:-
+Tanmay Goel, 2nd year CSE student at GL Bajaj Institute of Technology and Management.
